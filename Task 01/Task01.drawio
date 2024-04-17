@@ -1,0 +1,72 @@
+<mxfile host="Electron" modified="2024-03-10T22:04:06.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="8t-o2WSkwXW8T0cq4gPN" version="23.1.5" type="device">
+  <diagram name="Pagina-1" id="LHGmwGPq1s_4kPVazsEA">
+    <mxGraphModel dx="880" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" parent="1" source="3o5d2ir1IYHJ4hHyW4ea-8" target="3o5d2ir1IYHJ4hHyW4ea-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="460" />
+              <mxPoint x="580" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-8" value="Giornale" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-9" value="&amp;nbsp;- redazione: string&lt;br&gt;&amp;nbsp;- numPagine: int" style="rounded=0;whiteSpace=wrap;html=1;direction=east;align=left;" parent="1" vertex="1">
+          <mxGeometry x="380" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-10" value="&amp;nbsp;+ Giornale()&lt;br&gt;&amp;nbsp;..." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="380" y="620" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="3o5d2ir1IYHJ4hHyW4ea-14" target="3o5d2ir1IYHJ4hHyW4ea-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="460" />
+              <mxPoint x="580" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-14" value="Rivista" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-15" value="&amp;nbsp;- titolo: string&lt;br&gt;&amp;nbsp;- categoria: string" style="rounded=0;whiteSpace=wrap;html=1;direction=east;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-16" value="&amp;nbsp;+ Rivista()&lt;br&gt;&amp;nbsp;..." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="620" y="620" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NE9bEB4zan0qbnxjZ0Mh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamond;endFill=0;" parent="1" target="3o5d2ir1IYHJ4hHyW4ea-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="240" />
+              <mxPoint x="380" y="280" />
+            </Array>
+            <mxPoint x="490" y="240" as="sourcePoint" />
+            <mxPoint x="270" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-17" value="&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;br&gt;Pubblicazione" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-18" value="&amp;nbsp;- prezzo: float&lt;br&gt;&amp;nbsp;- periodicita: string" style="rounded=0;whiteSpace=wrap;html=1;direction=east;align=left;" parent="1" vertex="1">
+          <mxGeometry x="480" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-19" value="&amp;nbsp;+ Pubblicazione()&lt;br&gt;&amp;nbsp;..." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="480" y="310" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-27" value="Edicola" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-28" value="&amp;nbsp;- nome: string&lt;br&gt;&amp;nbsp;- indirizzo: string&lt;br&gt;&amp;nbsp;- magazzino: [Pubblicazione]" style="rounded=0;whiteSpace=wrap;html=1;direction=east;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="220" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3o5d2ir1IYHJ4hHyW4ea-29" value="&amp;nbsp;+ Edicola()&lt;br&gt;&amp;nbsp;...&lt;br&gt;&amp;nbsp;+ aggiungiPub&lt;br&gt;&amp;nbsp;+ rimuoviPub&lt;br&gt;&amp;nbsp;+ aggiornaDisp&lt;br&gt;&amp;nbsp;+ visualizzaPub" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="200" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

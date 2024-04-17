@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lez_Task07.props" />
+</Project>

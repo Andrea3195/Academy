@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|c:\\users\\utente\\desktop\\academy\\task 04\\lez_task04\\lez_task04\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F39B241-D219-4AB8-B0DA-782E82DF38DC}|Lez_Task04\\Lez_Task04.csproj|solutionrelative:lez_task04\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\appSettings.json",
+              "RelativeDocumentMoniker": "Lez_Task04\\appSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\appSettings.json",
+              "RelativeToolTip": "Lez_Task04\\appSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T09:59:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Utilities\\Config.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\Utilities\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Utilities\\Config.cs",
+              "RelativeToolTip": "Lez_Task04\\Utilities\\Config.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:21:55.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Prestito.cs",
+              "RelativeToolTip": "Lez_Task04\\Models\\Prestito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:21:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Libro.cs",
+              "RelativeToolTip": "Lez_Task04\\Models\\Libro.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:21:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Models\\Utente.cs",
+              "RelativeToolTip": "Lez_Task04\\Models\\Utente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:21:24.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrestitoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\PrestitoDAL.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\DAL\\PrestitoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\PrestitoDAL.cs",
+              "RelativeToolTip": "Lez_Task04\\DAL\\PrestitoDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:00:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\LibroDAL.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\DAL\\LibroDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\LibroDAL.cs",
+              "RelativeToolTip": "Lez_Task04\\DAL\\LibroDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:21:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\UtenteDAL.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\DAL\\UtenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\UtenteDAL.cs",
+              "RelativeToolTip": "Lez_Task04\\DAL\\UtenteDAL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:20:51.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\IDAL.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\DAL\\IDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\DAL\\IDAL.cs",
+              "RelativeToolTip": "Lez_Task04\\DAL\\IDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:20:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_Task04\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 04\\Lez_Task04\\Lez_Task04\\Program.cs",
+              "RelativeToolTip": "Lez_Task04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:33:20.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

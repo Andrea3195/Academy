@@ -1,0 +1,34 @@
+DROP TABLE IF EXISTS Risorsa
+DROP TABLE IF EXISTS Partecipante
+DROP TABLE IF EXISTS Evento
+
+CREATE TABLE Evento(
+	eventoID INT PRIMARY KEY IDENTITY(1,1),
+	nome VARCHAR(250) NOT NULL,
+	descrizione VARCHAR(250) NOT NULL,
+	capMax INT NOT NULL,
+	dataEvento DATE NOT NULL,
+	luogo VARCHAR(250) NOT NULL,
+	UNIQUE (dataEvento, luogo)
+);
+
+CREATE TABLE Partecipante(
+	partecipanteID INT PRIMARY KEY IDENTITY(1,1),
+	nome VARCHAR(250) NOT NULL,
+	contatto VARCHAR(250) NOT NULL,
+	codiceBiglietto VARCHAR(16) NOT NULL,
+	eventoRIF INT NOT NULL,
+	UNIQUE (codiceBiglietto, eventoRIF),
+	FOREIGN KEY (eventoRIF) REFERENCES Evento(eventoID) ON DELETE CASCADE
+);
+
+CREATE TABLE Risorsa(
+	risorsaID INT PRIMARY KEY IDENTITY(1,1),
+	atrezzatura VARCHAR(250) NOT NULL,
+	cibo VARCHAR(250) NOT NULL,
+	quantita INT NOT NULL,
+	costo DECIMAL NOT NULL,
+	fornitore VARCHAR(250) NOT NULL,
+	eventoRIF INT NOT NULL,
+	FOREIGN KEY (eventoRIF) REFERENCES Evento(eventoID) ON DELETE CASCADE
+);

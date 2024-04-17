@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\dal\\ordinedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\dal\\ordinedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|c:\\users\\utente\\desktop\\academy\\task 8.01\\wpf_neg_abb\\wpf_neg_abb\\models\\tasknegabbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE42834-012E-4FBE-B960-4B94E2A7A8E0}|WPF_neg_abb\\WPF_neg_abb.csproj|solutionrelative:wpf_neg_abb\\models\\tasknegabbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdineDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\OrdineDAL.cs",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\DAL\\OrdineDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\OrdineDAL.cs",
+              "RelativeToolTip": "WPF_neg_abb\\DAL\\OrdineDAL.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:03:24.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\ProdottoDAL.cs",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\DAL\\ProdottoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\ProdottoDAL.cs",
+              "RelativeToolTip": "WPF_neg_abb\\DAL\\ProdottoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:01:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\DAL\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\DAL\\CategoriaDAL.cs",
+              "RelativeToolTip": "WPF_neg_abb\\DAL\\CategoriaDAL.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAqwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:00:36.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskNegAbbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\Models\\TaskNegAbbContext.cs",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\Models\\TaskNegAbbContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\Models\\TaskNegAbbContext.cs",
+              "RelativeToolTip": "WPF_neg_abb\\Models\\TaskNegAbbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:59:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_neg_abb\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:55:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_neg_abb\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Academy\\Task 8.01\\WPF_neg_abb\\WPF_neg_abb\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_neg_abb\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:55:24.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
